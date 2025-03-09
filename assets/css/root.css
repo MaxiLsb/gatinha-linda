@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+:root{
+    --azul: rgb(27, 33, 110);
+    --azul-claro: rgb(103, 100, 247);
+    --fundo: rgb(238, 240, 243); 
+}
